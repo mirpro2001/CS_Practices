@@ -25,9 +25,9 @@ namespace PieChart
         private void Draw()
         {
             ArrayList data = new ArrayList();
-            data.Add(new PieChartElement("—‡¯‡", (float)50.75));
-            data.Add(new PieChartElement("Ã¿ —»Ã", (float)22));
-            data.Add(new PieChartElement("—»–»ﬂ", (float)50));
+            data.Add(new PieChartElement("√ë√†√∏√†", (float)50.75));
+            data.Add(new PieChartElement("√å√Ä√ä√ë√à√å", (float)22));
+            data.Add(new PieChartElement("√ë√à√ê√à√ü", (float)50));
             data.Add(new PieChartElement("South", (float)12));
             data.Add(new PieChartElement("Central", (float)44));
 
