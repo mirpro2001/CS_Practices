@@ -4,7 +4,7 @@ namespace prakt6_var1
 {
 	public class person
 	{
-
+		private string fio;
 		private string name;
 		private string surname;
 		private DateTime bdate;
